@@ -52,3 +52,22 @@
         text-align: left;
     }
 }
+
+.fixed {
+    top: 90%;
+    right: 0;
+    position: fixed;
+    padding: 5px;
+}
+
+.btn_center {
+    background-color: rgb(230, 94, 94);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 50%;
+    border-radius: 1rem;
+    font-size: large;
+    text-decoration: none;
+}
